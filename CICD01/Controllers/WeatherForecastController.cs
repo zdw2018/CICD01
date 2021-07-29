@@ -13,7 +13,7 @@ namespace CICD01.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Fr22222222222222222eez   ing", "Bracing", "Chillaaaaaaaay", "Coosssl", "Mild", "Warm", "Bawwwwlmy", "Hot", "Swelteri111ng", "Scorching111111"
+            "Fr22222222222222222eez   ing", "Braciddddng", "Chillaaaaaaaay", "Coosssl", "Mild", "Warm", "Bawwwwlmy", "Hot", "Swelteri111ng", "Scorching111111"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
